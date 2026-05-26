@@ -40,7 +40,7 @@ typedef struct {
     volatile uint8_t* DDRx;     // DDRx
     volatile uint8_t* PORTx;    // PORTx
     volatile uint8_t* PINx;     // PINx
-    uint8_t           pin;      // номер пина (0..7)
+    uint8_t           pin;      // pin number (0..7)
 } TPin;
 
 

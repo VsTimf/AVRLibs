@@ -6,3 +6,8 @@
 
 Simple C-based Key handler library.
 Based on regular polling. Supports CLICK, HOLD, HOLD-REPEAT events.
+
+
+### 2. stimer
+
+Simple C-based software timer library.
